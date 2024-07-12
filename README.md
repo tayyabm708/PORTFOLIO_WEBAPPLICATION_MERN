@@ -13,7 +13,6 @@ Welcome to my portfolio web application! This project showcases my skills and pr
 - [Project Structure](#project-structure)
 - [Hosting](#hosting)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## About the Project
 
@@ -102,6 +101,18 @@ To get a local copy up and running, follow these simple steps.
 ### Hosting
 
 This Web Aplication is hosted on Heroku. You can visit here https://portfolio-webapplication-mern-264128a12e42.herokuapp.com
+
+### Contact
+If you have any questions or would like to get in touch, please contact me at:
+
+Email: tayyabm708@gmail.com
+LinkedIn: www.linkedin.com/in/
+muhammad-tayyab-7614b9249
+GitHub: tayyabm708
+
+Thank you for visiting my portfolio web application. I hope you find it informative and engaging!
+
+
 
 
 
