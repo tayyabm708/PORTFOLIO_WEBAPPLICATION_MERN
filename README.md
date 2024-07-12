@@ -101,8 +101,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Hosting
 
-This Web Aplication is hosted on Heroku. You can visit <a src="https://portfolio-webapplication-mern-264128a12e42.herokuapp.com/">here<a>
-
+This Web Aplication is hosted on Heroku. You can visit here https://portfolio-webapplication-mern-264128a12e42.herokuapp.com
 
 
 
