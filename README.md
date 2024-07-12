@@ -81,7 +81,7 @@ To get a local copy up and running, follow these simple steps.
 
 
 ### Project Structure
-     ```sh
+
      portfolio-webapp/
      ├── client/                  # React frontend
      │   ├── public/
@@ -105,10 +105,10 @@ This Web Aplication is hosted on Heroku. You can visit here https://portfolio-we
 ### Contact
 If you have any questions or would like to get in touch, please contact me at:
 
-Email: tayyabm708@gmail.com
-LinkedIn: www.linkedin.com/in/
+Email: tayyabm708@gmail.com <br>
+LinkedIn: www.linkedin.com/in/<br>
 muhammad-tayyab-7614b9249
-GitHub: tayyabm708
+GitHub: tayyabm708<br>
 
 Thank you for visiting my portfolio web application. I hope you find it informative and engaging!
 
