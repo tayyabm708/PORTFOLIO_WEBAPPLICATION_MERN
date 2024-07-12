@@ -81,5 +81,29 @@ To get a local copy up and running, follow these simple steps.
 3.  Open your browser and navigate to http://localhost:3000.
 
 
+### Project Structure
+     ```sh
+     portfolio-webapp/
+     ├── client/                  # React frontend
+     │   ├── public/
+     │   └── src/
+     │       ├── components/      # Reusable components
+     │       ├── pages/           # React pages
+     │       ├── redux/           # Redux store and slices
+     │       ├── App.js           # Main App component
+     │       └── index.js         # Entry point
+     ├── server/                  # Node.js backend
+     │   ├── models/              # Mongoose models
+     │   ├── routes/              # Express routes
+     │   ├── server.js            # Main server file
+     │   └── .env                 # Environment variables
+     └── README.md                # This file
+
+### Hosting
+
+This Web Aplication is hosted on Heroku. You can visit <a src="https://portfolio-webapplication-mern-264128a12e42.herokuapp.com/">here<a>
+
+
+
 
 
