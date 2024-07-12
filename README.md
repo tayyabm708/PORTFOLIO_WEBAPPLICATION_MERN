@@ -47,7 +47,39 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Clone the repository:
+     ```sh
+      git clone https://github.com/yourusername/portfolio-webapp.git
+      cd portfolio-webapp
+
+2. Install dependencies for both frontend and backend:
+     ```sh
+      cd client
+      npm install
+      cd ../server
+      npm install
+
+3. Create a .env file in the server directory and add your MongoDB URI:
+      ```sh
+      MONGO_URI=your_mongodb_uri
+
+
+  
+
+### Usage
+
+1. Start the development Server
 
    ```sh
-   git clone https://github.com/yourusername/portfolio-webapp.git
-   cd portfolio-webapp
+   cd server
+   npm run dev
+   
+2. Start the React Application
+
+    ```sh
+    cd client
+    npm start
+3.  Open your browser and navigate to http://localhost:3000.
+
+
+
+
