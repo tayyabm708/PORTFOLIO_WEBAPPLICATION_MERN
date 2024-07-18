@@ -14,7 +14,7 @@ function Sider() {
           <a href="https://www.instagram.com/tayyabm708?igsh=MTB3dDBhZzJ6dHN2Zg%3D%3D&utm_source=qr">
           <i class="ri-instagram-line"></i>
           </a>
-          <a href="https://www.linkedin.com/in/muhammad-tayyab-7614b9249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+          <a href="https://www.linkedin.com/in/muhammad-tayyab708/">
           <i class="ri-linkedin-box-fill"></i>
           </a>
           <a href="https://github.com/tayyabm708">
