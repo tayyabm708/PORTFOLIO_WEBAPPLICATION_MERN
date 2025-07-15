@@ -8,8 +8,8 @@ function Sider() {
           <a href="">
             <i class="ri-facebook-circle-line"></i>
           </a>
-          <a href="">
-          <i class="ri-mail-line"></i>
+          <a href="mailto:tayyabm708@gmail.com">
+            <i className="ri-mail-line"></i>
           </a>
           <a href="https://www.instagram.com/tayyabm708?igsh=MTB3dDBhZzJ6dHN2Zg%3D%3D&utm_source=qr">
           <i class="ri-instagram-line"></i>

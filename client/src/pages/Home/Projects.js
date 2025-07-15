@@ -37,7 +37,7 @@ function Projects() {
             alt=""
             className="h-60 w-60"
           />
-          <div className="flex flex-col gap-5 text-justify">
+          <div className="flex flex-col gap-5 ">
             <h1 className="text-secondary text-2xl">
               {projects[selectedItemIndex].title}
             </h1>

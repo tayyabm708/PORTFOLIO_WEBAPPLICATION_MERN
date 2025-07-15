@@ -21,7 +21,7 @@ function About() {
             autoplay
           ></dotlottie-player>
         </div>
-        <div className="flex flex-col gap-5 w-1/2 sm:w-full sm:pt-5 text-justify">
+        <div className="flex flex-col gap-5 w-1/2 sm:w-full sm:pt-5 ">
           <p className="text-white">
             {description1 || ''}
           </p>
